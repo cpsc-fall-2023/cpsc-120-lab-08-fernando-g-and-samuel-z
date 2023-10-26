@@ -1,7 +1,7 @@
-// Samuel Zarate
-// SamuelZarate@csu.fullerton.edu
-// @SamuelZarate
-// Partner: @GonzalesxFernando
+// Fernando Gonzales
+// GonzalesxFernando@csu.fullerton.edu
+// @GonzalesxFernando
+// Partners: @SamuelZarate
 
 #include <iostream>
 #include <string>
@@ -19,6 +19,6 @@ int main(int argc, char* argv[]) {
   }
   std::cout << sum << "\n";
   sum = {sum / (argc - 1)};
-   std::cout << "Average = " << sum << "\n";
+  std::cout << "Average = " << sum << "\n";
   return 0;
 }
